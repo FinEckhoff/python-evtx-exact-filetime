@@ -40,15 +40,5 @@ setuptools.setup(
                 'lxml==4.6.3',
             ]
         },
-        scripts=['scripts/evtx_dump.py',
-                 'scripts/evtx_dump_json.py'
-                 'scripts/evtx_dump_chunk_slack.py',
-                 'scripts/evtx_eid_record_numbers.py',
-                 'scripts/evtx_extract_record.py',
-                 'scripts/evtx_filter_records.py',
-                 'scripts/evtx_info.py',
-                 'scripts/evtx_record_structure.py',
-                 'scripts/evtx_structure.py',
-                 'scripts/evtx_templates.py',
-                 ],
+        
 )
