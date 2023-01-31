@@ -18,7 +18,7 @@ setuptools.setup(
         long_description=long_description,
         author="Willi Ballenthin",
         author_email="willi.ballenthin@gmail.com",
-        url="https://github.com/williballenthin/python-evtx",
+        url="https://github.com/FinEckhoff/python-evtx-exact-filetime",
         license="Apache 2.0 License",
         packages=setuptools.find_packages(),
         install_requires=[
